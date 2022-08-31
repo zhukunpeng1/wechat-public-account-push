@@ -42,9 +42,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "河南",
+    PROVINCE: "河南省",
     // 所在城市
-    CITY: "平顶山",
+    CITY: "平顶山市",
 
     /** 重要节日相关 */
 
