@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxa23f283b241457f1",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "74f8c7f8ffcdfdf55e464d2a1344d2cf",
 
     // 模板消息id
-    TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
+    TEMPLATE_ID: "demo：zi9-A5CtaUwhr6Q3MtZqfQi9jqW0suVSikVAzm0_mow",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
+    CALLBACK_TEMPLATE_ID: "oLx8q64rJb9Og2vm7AnqnO4RxnF8",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
@@ -32,7 +32,7 @@ export const config = {
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
+      {name: '自己',id: "oLx8q64rJb9Og2vm7AnqnO4RxnF8"}, 
     ],
      
     /**
@@ -42,9 +42,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "河南",
     // 所在城市
-    CITY: "惠州",
+    CITY: "汝州",
 
     /** 重要节日相关 */
 
